@@ -9,4 +9,5 @@ Tra ve cau chao 'Hi'
 --- output 
 Hi!
 """
-print ('hi')
+from s01_dapan import hi 
+hi() 
