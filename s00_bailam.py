@@ -9,3 +9,4 @@ Tra ve cau chao 'Hi'
 --- output 
 Hi!
 """
+print ('hi')
